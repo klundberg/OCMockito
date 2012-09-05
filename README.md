@@ -1,5 +1,7 @@
 ![mockito](http://docs.mockito.googlecode.com/hg/latest/org/mockito/logo.jpg)
 
+Fork from https://github.com/jonreid/OCMockito, see that project for all updates.
+
 OCMockito is an Objective-C implementation of Mockito, supporting creation,
 verification and stubbing of mock objects.
 
